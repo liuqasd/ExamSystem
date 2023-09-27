@@ -1,9 +1,3 @@
-## 有问题请到我的博客下留言，博客链接为：https://blog.zoutl.cn/208.html ，如果本项目对你有帮助，就请你Star一下吧!!
-
-### 提问要求
-
-查看博客：https://blog.zoutl.cn/6670.html ，一定要看，不规范的提问会让我不舒服，会导致我看到你的问题也不想回答
-
 ### 项目地址
 
 #### GitHub地址
@@ -125,7 +119,3 @@
 ##### 全部试题管理
 
 ![img](https://image.zoutl.cn/hexo-blog/blogImage/20210702050728.jpg)
-
-### PS.
-
-在本地IDE部署本项目的步骤查看博客：[前后端分离项目在本地IDE部署步骤 | LeDao的博客 (zoutl.cn)](https://blog.zoutl.cn/453.html)
